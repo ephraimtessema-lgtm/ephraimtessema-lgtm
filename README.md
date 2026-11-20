@@ -121,11 +121,11 @@ A private, offline poetry vault for writing, storing, and keeping personal poems
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ephraintessema-lgtm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B7F000&icon_color=B7F000&text_color=E6EDF3&ring_color=B7F000" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ephraimtessema-lgtm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B7F000&icon_color=B7F000&text_color=E6EDF3&ring_color=B7F000" alt="GitHub stats">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephraintessema-lgtm&layout=compact&hide_border=true&bg_color=0D1117&title_color=B7F000&text_color=E6EDF3" alt="Most used languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephraimtessema-lgtm&layout=compact&hide_border=true&bg_color=0D1117&title_color=B7F000&text_color=E6EDF3" alt="Most used languages">
 
-<img src="https://streak-stats.demolab.com?user=ephraintessema-lgtm&hide_border=true&background=0D1117&ring=B7F000&fire=B7F000&currStreakLabel=B7F000&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=ephraimtessema-lgtm&hide_border=true&background=0D1117&ring=B7F000&fire=B7F000&currStreakLabel=B7F000&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub contribution streak">
 
 </div>
 
